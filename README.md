@@ -24,20 +24,22 @@ First things first, I set up my environment. I installed MySQL to manage my data
 
 <h2>Departments Table:</h2>
 
-department_id (Primary Key)
-department_name
+<p>department_id (Primary Key) </p>
+<p>department_name </p>
 
 <h2>Step 3: Inserting Sample Data</h2>
 <p>
   With our tables ready, it's time to add some data to play around with. I inserted sample data into both the Employees and Departments tables.
 </p>
+
+<h2>Departments Table </h2>
 <p>
 <img src="https://imgur.com/a/DwGWjeH.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 
-    *GENERAL OVERVIEW*
-<h2>Employees Table:</h2>
+ 
+<h2>Employees Table: </h2>
 <p>
 <img src="https://imgur.com/a/6p7Pj6m.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
