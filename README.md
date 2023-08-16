@@ -11,7 +11,7 @@ Hey there! employee management database project using SQL. This project is desig
 
 First things first, I set up my environment. I installed MySQL to manage my database and created a new database named "EmployeeManagement."
 
-<h3>Step 2: Designing the Tables</h3>
+<h4>Step 2: Designing the Tables</h4>
 <p>Now, let's dive into designing the heart of our database – the tables! I created two tables: "Employees" and "Departments." These tables will hold all the essential employee information. </p>
 
 <h2>Employees Table:</h2>
