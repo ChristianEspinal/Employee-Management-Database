@@ -41,7 +41,7 @@ First things first, I set up my environment. I installed MySQL to manage my data
  
 <h3>Employees Table: </h3>
 <p>
-<img src="https://imgur.com/a/6p7Pj6m.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pUBksz6.png height="80%" width="80%"/>
 </p>
 
 <h2>Step 4: Performing Basic Queries</h2>
@@ -49,8 +49,8 @@ Now, let's have some fun querying our database!
 
 <h3>Retrieve Employee Info:</h3>
 <p>
-<img src="https://imgur.com/a/8j1klUf.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DNesrdl.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Count Employees per Department:</h3>
-<img src="[https://imgur.com/a/8j1klUf.png](https://imgur.com/a/fDJ4nya) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0dZHV6W.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
