@@ -3,7 +3,7 @@
 </p>
 
 <h1>Employee Management Database</h1>
-Hey there! employee management database project using SQL. This project is designed to showcase my SQL skills and demonstrate my ability to design tables, insert data, and perform basic queries. Let's get started!.<br />
+Hey there! this is my employee management database project using SQL. This project is designed to showcase my SQL skills and demonstrate my ability to design tables, insert data, and perform basic queries. Let's get started!.<br />
 
 
 
