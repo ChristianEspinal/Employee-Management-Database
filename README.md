@@ -11,10 +11,10 @@ Hey there! employee management database project using SQL. This project is desig
 
 First things first, I set up my environment. I installed MySQL to manage my database and created a new database named "EmployeeManagement."
 
-<h4>Step 2: Designing the Tables</h4>
+<h2>Step 2: Designing the Tables</h2>
 <p>Now, let's dive into designing the heart of our database – the tables! I created two tables: "Employees" and "Departments." These tables will hold all the essential employee information. </p>
 
-<h2>Employees Table:</h2>
+<h3>Employees Table:</h3>
 
 <p>employee_id (Primary Key) </p>
 <p>first_name </p>
@@ -22,7 +22,7 @@ First things first, I set up my environment. I installed MySQL to manage my data
 <p>department_id (Foreign Key referencing Departments) </p>
 
 
-<h2>Departments Table:</h2>
+<h3>Departments Table:</h3>
 
 <p>department_id (Primary Key) </p>
 <p>department_name </p>
