@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/zMJxvjs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/zMJxvjs.png" height="80%" width="80%"/>
 </p>
 
 <h1>Employee Management Database</h1>
