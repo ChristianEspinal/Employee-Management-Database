@@ -34,7 +34,7 @@ First things first, I set up my environment. I installed MySQL to manage my data
 
 <h3>Departments Table </h3>
 <p>
-<img src="https://imgur.com/eajovtV" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/oZIj4zA.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 
