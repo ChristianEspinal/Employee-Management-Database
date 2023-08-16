@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/zMJxvjs.png" height="20%" width="20%"/>
+<img src="https://i.imgur.com/zMJxvjs.png" height="40%" width="40%"/>
 </p>
 
 <h1>Employee Management Database</h1>
