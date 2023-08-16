@@ -16,10 +16,10 @@ First things first, I set up my environment. I installed MySQL to manage my data
 
 <h2>Employees Table:</h2>
 
-employee_id (Primary Key)
-first_name
-last_name
-department_id (Foreign Key referencing Departments)
+<p>employee_id (Primary Key) </p>
+<p>first_name </p>
+<p>last_name </p>
+<p>department_id (Foreign Key referencing Departments) </p>
 
 
 <h2>Departments Table:</h2>
