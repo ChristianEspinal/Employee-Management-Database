@@ -32,14 +32,14 @@ First things first, I set up my environment. I installed MySQL to manage my data
   With our tables ready, it's time to add some data to play around with. I inserted sample data into both the Employees and Departments tables.
 </p>
 
-<h2>Departments Table </h2>
+<h3>Departments Table </h3>
 <p>
 <img src="https://imgur.com/a/DwGWjeH.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 
  
-<h2>Employees Table: </h2>
+<h3>Employees Table: </h3>
 <p>
 <img src="https://imgur.com/a/6p7Pj6m.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -47,10 +47,10 @@ First things first, I set up my environment. I installed MySQL to manage my data
 <h2>Step 4: Performing Basic Queries</h2>
 Now, let's have some fun querying our database!
 
-<h2>Retrieve Employee Info:</h2>
+<h3>Retrieve Employee Info:</h3>
 <p>
 <img src="https://imgur.com/a/8j1klUf.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h2>Count Employees per Department:</h2>
+<h3>Count Employees per Department:</h3>
 <img src="[https://imgur.com/a/8j1klUf.png](https://imgur.com/a/fDJ4nya) height="80%" width="80%" alt="Disk Sanitization Steps"/>
