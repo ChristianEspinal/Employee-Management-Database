@@ -51,3 +51,6 @@ Now, let's have some fun querying our database!
 <p>
 <img src="https://imgur.com/a/8j1klUf.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h2>Count Employees per Department:</h2>
+<img src="[https://imgur.com/a/8j1klUf.png](https://imgur.com/a/fDJ4nya) height="80%" width="80%" alt="Disk Sanitization Steps"/>
